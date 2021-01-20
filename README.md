@@ -2,6 +2,8 @@
 
 ## 1. Installation
 
+The notebook uses Python 3.7.9 (Anaconda 4.9.2 distribution) and the libraries pandas and numpy for data analysis as well as matplotlib and seaborn for data visualization.
+
 ## 2. Project Motivation
 
 The goal of this notebook is to analyse Stack Overflow Survey Data for writing a blog post on the differences between data scientists and "traditional" software developers with regards to aspects like education level, gender, income, and job satisfaction.
@@ -11,6 +13,8 @@ In addition to analyzing the most recent survey data from 2020 I will also integ
 The notebook and associated blog post is a project work for my Data Scientist Nanodegree on Udacity.
 
 ## 3. File Descriptions
+
+The whole data analysis is in the Jupyter notebook Stack Overflow Data Scientist.ipynb.
 
 
 ## 4. Major Results
@@ -27,7 +31,12 @@ Boiled down to 7 catchy facts that fit a blog post, the conclusion is that:
 6. The median income of data scientists is about 4,000 USD higher than for other developer types.
 7. On average, data scientists are more satisfied with their job than other developers.
 
-The full blog post can be read via this link.
+The full blog post can be read via [this link](https://medium.com/@jens.martin.hamburg/is-data-science-really-that-sexy-as-they-say-9a790e06797).
 
-## 5. Acknowledgements
+## 5. Acknowledgements & Licensing
+
+The raw data used for the analysis come from Stack Overflow and can be downloaded [here](https://insights.stackoverflow.com/survey/).
+
 The title picture of my blog post is a derivative from [Calvin.Andrus](https://commons.wikimedia.org/wiki/File:DataScienceDisciplines.png), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) , via Wikimedia Commons, and an Image by [Comfreak](https://pixabay.com/users/comfreak-51581/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=1735640) from [Pixabay](https://pixabay.com/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=1735640).
+
+Otherwise, feel free to use the code here as you would like!
